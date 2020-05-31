@@ -3,11 +3,11 @@ include 'application/views/masterpage/v_navbar.php';
 include 'application/views/masterpage/v_aside.php'
 ?>
 <div class="page-wrapper">
-
 	<div class="page-breadcrumb">
 		<div class="row align-items-center">
 			<div class="col-12">
 				<h3 class="page-title">Administradores</h3>
+				
 				<div class="d-flex align-items-center">
 					<nav aria-label="breadcrumb">
 						<ol class="breadcrumb">

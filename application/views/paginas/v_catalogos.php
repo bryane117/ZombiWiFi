@@ -3,6 +3,7 @@ include 'application/views/masterpage/v_navbar.php';
 include 'application/views/masterpage/v_aside.php'
 ?>
 <div class="page-wrapper">
+
 	<div class="page-breadcrumb">
 		<div class="row align-items-center">
 			<div class="col-12">
